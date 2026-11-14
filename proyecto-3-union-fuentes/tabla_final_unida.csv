@@ -1,0 +1,7 @@
+id_venta,id_producto,id_cliente,ventas,nombre_producto,proveedor,descuento,tipo_cliente,ciudad,venta_neta
+1,1,101,2500,Laptop,Proveedor A,0.1,Nuevo,CDMX,2250.0
+2,2,102,800,Playera,Proveedor B,0.2,Recurrente,Guadalajara,640.0
+3,1,103,3000,Laptop,Proveedor A,0.1,Nuevo,Monterrey,2700.0
+4,3,101,1200,Silla,Proveedor C,0.05,Nuevo,CDMX,1140.0
+5,4,104,600,Balon,Proveedor A,0.15,Recurrente,Puebla,510.0
+6,2,103,900,Playera,Proveedor B,0.2,Nuevo,Monterrey,720.0
